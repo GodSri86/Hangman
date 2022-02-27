@@ -6,6 +6,8 @@ france
 kenya
 uganda
 russia
+jamaica
+indonesia
 china
 japan
 philippines
